@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Monoseal Multi Venture Network Limited</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+<script defer src="js/script.js"></script>
+</head>
+
+<body>
+
+<header class="header">
+  <img src="images/company-logo.jpg" class="logo">
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="services.html">Services</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="videos.html">Videos</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Professional Roofing & Waterproofing Experts</h1>
+  <p>Durable • Reliable • Modern Roofing Solutions</p>
+  <a href="contact.html" class="btn">Get a Free Quote</a>
+</section>
+
+<section class="features">
+  <div>✔ Quality Materials</div>
+  <div>✔ Expert Installations</div>
+  <div>✔ Nationwide Service</div>
+</section>
+
+<footer>
+  <p>© 2026 Monoseal Multi Venture Network Limited</p>
+</footer>
+
+</body>
+</html>
